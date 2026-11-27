@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="mailto:daxp5448@gmail.com"><img src="https://img.shields.io/badge/Email-daxp5448%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="![Uploading image.png…]()
-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/daksh-prajapati-3300ba36a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://kelviontech.in"><img src="https://img.shields.io/badge/KelvionTech-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="KelvionTech"></a>
   <img src="https://komarev.com/ghpvc/?username=daxp5448&style=for-the-badge&color=0ea5e9&label=Profile+Views" alt="Profile views">
 </p>
