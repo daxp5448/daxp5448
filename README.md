@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:daxp5448@gmail.com"><img src="https://img.shields.io/badge/Email-daxp5448%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://kelviontech.in"><img src="https://img.shields.io/badge/Work-kelviontech.in-111111?style=flat&logo=googlechrome&logoColor=white" alt="KelvionTech"></a>
   <img src="https://img.shields.io/badge/Based%20in-Ahmedabad%2C%20India-FF9933?style=flat" alt="Ahmedabad, India">
 </p>
